@@ -1,0 +1,29 @@
+.main {
+    margin-top: 50px;
+}
+
+.index-options{
+    padding: 30px;
+}
+
+.index-button {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 1.5em;
+}
+
+.notificacion {
+    display: none;
+}
+
+.navbar-icon {
+    width: 50px;
+    height: 50px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
